@@ -1,7 +1,5 @@
 # Titanic Survivor Prediction using Random Forest Classifier
 
-![Titanic Image]([https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg](https://en.wikipedia.org/wiki/File:Titanic-Cobh-Harbour-1912.JPG))
-
 This project is a machine learning model designed to predict whether a passenger survived the Titanic disaster or not. The model uses a Random Forest Classifier, a powerful ensemble learning method, to make predictions based on features such as age, sex, passenger class, and more.
 
 ## Project Overview
